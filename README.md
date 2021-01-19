@@ -1,5 +1,8 @@
-### Hey there! How are you? 👋
+### Hi there! How are you? 👋
 
+#### Get to know me a little more:
+
+- 👨‍💻 Who am I ... My name is Samuel and I'm a Software Engineer from São Paulo, Brazil
 - 🏠 Today I live ... in London, UK
 - 🔭 I’m currently working at ... [xDesign](https://www.xdesign.com/) in Edinburgh and [Reclame AQUI](https://www.reclameaqui.com.br/) in Brazil
 - 🌱 I’m currently learning ... more about Java Core, Quarkus.io and some Python
