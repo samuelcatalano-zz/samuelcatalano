@@ -1,4 +1,4 @@
-### Here is what I'm working on 👋
+### Hey there! How are you? 👋
 
 - 🏠 Today I live ... in London, UK
 - 🔭 I’m currently working at ... [xDesign](https://www.xdesign.com/) in Edinburgh and [Reclame AQUI](https://www.reclameaqui.com.br/) in Brazil
