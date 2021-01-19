@@ -1,7 +1,5 @@
 ### Here is what I'm working on! 👋
 
-<!--
-**samuelcatalano/samuelcatalano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/samuelcatalano/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have Italian citizenship but I don't speak Italian :(
--->
